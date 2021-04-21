@@ -12,7 +12,6 @@ Details: This is simple robust Selenium with Java Automation framework. It will 
 Using the config.properties file which can be found in src/test/resources you can execute tests in chrome and firefox. (More browser support can easily be added) You may also change the environment url and credentials as needed.
 
 # Pre-requisites: 
-Java 1.8
 Must have either Chrome or Firefox browser (Any Version)
 
 
