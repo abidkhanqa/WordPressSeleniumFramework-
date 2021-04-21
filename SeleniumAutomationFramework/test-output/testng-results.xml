@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="11" passed="11">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="86315" started-at="2021-04-21T01:12:28Z" finished-at="2021-04-21T01:13:54Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="86315" started-at="2021-04-21T01:12:28Z" finished-at="2021-04-21T01:13:54Z">
+      <class name="com.wordpress.tests.MyProfilepageTests">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.wordpress.tests.MyProfilepageTests@53b32d7]" name="setUp" is-config="true" duration-ms="5524" started-at="2021-04-21T01:12:28Z" finished-at="2021-04-21T01:12:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="profilePageSetUp()[pri:0, instance:com.wordpress.tests.MyProfilepageTests@53b32d7]" name="profilePageSetUp" is-config="true" duration-ms="804" started-at="2021-04-21T01:12:34Z" finished-at="2021-04-21T01:12:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- profilePageSetUp -->
+        <test-method status="PASS" signature="verifyProfilePageTitle()[pri:1, instance:com.wordpress.tests.MyProfilepageTests@53b32d7]" name="verifyProfilePageTitle" duration-ms="37" started-at="2021-04-21T01:12:35Z" finished-at="2021-04-21T01:12:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyProfilePageTitle -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.wordpress.tests.MyProfilepageTests@53b32d7]" name="closeBrowser" is-config="true" duration-ms="109" started-at="2021-04-21T01:12:35Z" finished-at="2021-04-21T01:12:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.wordpress.tests.MyProfilepageTests@53b32d7]" name="setUp" is-config="true" duration-ms="4356" started-at="2021-04-21T01:12:35Z" finished-at="2021-04-21T01:12:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="profilePageSetUp()[pri:0, instance:com.wordpress.tests.MyProfilepageTests@53b32d7]" name="profilePageSetUp" is-config="true" duration-ms="813" started-at="2021-04-21T01:12:39Z" finished-at="2021-04-21T01:12:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- profilePageSetUp -->
+        <test-method status="PASS" signature="verifyProfilePageHeader()[pri:2, instance:com.wordpress.tests.MyProfilepageTests@53b32d7]" name="verifyProfilePageHeader" duration-ms="2119" started-at="2021-04-21T01:12:40Z" finished-at="2021-04-21T01:12:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyProfilePageHeader -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.wordpress.tests.MyProfilepageTests@53b32d7]" name="closeBrowser" is-config="true" duration-ms="113" started-at="2021-04-21T01:12:42Z" finished-at="2021-04-21T01:12:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.wordpress.tests.MyProfilepageTests@53b32d7]" name="setUp" is-config="true" duration-ms="4218" started-at="2021-04-21T01:12:42Z" finished-at="2021-04-21T01:12:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="profilePageSetUp()[pri:0, instance:com.wordpress.tests.MyProfilepageTests@53b32d7]" name="profilePageSetUp" is-config="true" duration-ms="900" started-at="2021-04-21T01:12:46Z" finished-at="2021-04-21T01:12:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- profilePageSetUp -->
+        <test-method status="PASS" signature="verifyYourProfileLink()[pri:3, instance:com.wordpress.tests.MyProfilepageTests@53b32d7]" name="verifyYourProfileLink" duration-ms="3615" started-at="2021-04-21T01:12:47Z" finished-at="2021-04-21T01:12:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyYourProfileLink -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.wordpress.tests.MyProfilepageTests@53b32d7]" name="closeBrowser" is-config="true" duration-ms="113" started-at="2021-04-21T01:12:51Z" finished-at="2021-04-21T01:12:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.wordpress.tests.MyProfilepageTests@53b32d7]" name="setUp" is-config="true" duration-ms="4238" started-at="2021-04-21T01:12:51Z" finished-at="2021-04-21T01:12:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="profilePageSetUp()[pri:0, instance:com.wordpress.tests.MyProfilepageTests@53b32d7]" name="profilePageSetUp" is-config="true" duration-ms="813" started-at="2021-04-21T01:12:55Z" finished-at="2021-04-21T01:12:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- profilePageSetUp -->
+        <test-method status="PASS" signature="verifyMoreInformationEmailAddress()[pri:4, instance:com.wordpress.tests.MyProfilepageTests@53b32d7]" name="verifyMoreInformationEmailAddress" duration-ms="3105" started-at="2021-04-21T01:12:56Z" finished-at="2021-04-21T01:12:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyMoreInformationEmailAddress -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.wordpress.tests.MyProfilepageTests@53b32d7]" name="closeBrowser" is-config="true" duration-ms="112" started-at="2021-04-21T01:12:59Z" finished-at="2021-04-21T01:12:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.wordpress.tests.MyProfilepageTests@53b32d7]" name="setUp" is-config="true" duration-ms="4304" started-at="2021-04-21T01:12:59Z" finished-at="2021-04-21T01:13:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="profilePageSetUp()[pri:0, instance:com.wordpress.tests.MyProfilepageTests@53b32d7]" name="profilePageSetUp" is-config="true" duration-ms="927" started-at="2021-04-21T01:13:04Z" finished-at="2021-04-21T01:13:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- profilePageSetUp -->
+        <test-method status="PASS" signature="verifyPublicDisplayName()[pri:5, instance:com.wordpress.tests.MyProfilepageTests@53b32d7]" name="verifyPublicDisplayName" duration-ms="2083" started-at="2021-04-21T01:13:05Z" finished-at="2021-04-21T01:13:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPublicDisplayName -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.wordpress.tests.MyProfilepageTests@53b32d7]" name="closeBrowser" is-config="true" duration-ms="136" started-at="2021-04-21T01:13:07Z" finished-at="2021-04-21T01:13:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.wordpress.tests.MyProfilepageTests@53b32d7]" name="setUp" is-config="true" duration-ms="4356" started-at="2021-04-21T01:13:07Z" finished-at="2021-04-21T01:13:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="profilePageSetUp()[pri:0, instance:com.wordpress.tests.MyProfilepageTests@53b32d7]" name="profilePageSetUp" is-config="true" duration-ms="847" started-at="2021-04-21T01:13:11Z" finished-at="2021-04-21T01:13:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- profilePageSetUp -->
+        <test-method status="PASS" signature="verifySaveProfileDetailsButtonIsDisabled()[pri:6, instance:com.wordpress.tests.MyProfilepageTests@53b32d7]" name="verifySaveProfileDetailsButtonIsDisabled" duration-ms="62" started-at="2021-04-21T01:13:12Z" finished-at="2021-04-21T01:13:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySaveProfileDetailsButtonIsDisabled -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.wordpress.tests.MyProfilepageTests@53b32d7]" name="closeBrowser" is-config="true" duration-ms="136" started-at="2021-04-21T01:13:12Z" finished-at="2021-04-21T01:13:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.wordpress.tests.MyProfilepageTests@53b32d7]" name="setUp" is-config="true" duration-ms="3438" started-at="2021-04-21T01:13:12Z" finished-at="2021-04-21T01:13:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="profilePageSetUp()[pri:0, instance:com.wordpress.tests.MyProfilepageTests@53b32d7]" name="profilePageSetUp" is-config="true" duration-ms="1479" started-at="2021-04-21T01:13:16Z" finished-at="2021-04-21T01:13:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- profilePageSetUp -->
+        <test-method status="PASS" signature="verifySaveProfileDetailsSuccessMessage()[pri:7, instance:com.wordpress.tests.MyProfilepageTests@53b32d7]" name="verifySaveProfileDetailsSuccessMessage" duration-ms="4051" started-at="2021-04-21T01:13:17Z" finished-at="2021-04-21T01:13:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySaveProfileDetailsSuccessMessage -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.wordpress.tests.MyProfilepageTests@53b32d7]" name="closeBrowser" is-config="true" duration-ms="115" started-at="2021-04-21T01:13:21Z" finished-at="2021-04-21T01:13:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.wordpress.tests.MyProfilepageTests@53b32d7]" name="setUp" is-config="true" duration-ms="4203" started-at="2021-04-21T01:13:21Z" finished-at="2021-04-21T01:13:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="profilePageSetUp()[pri:0, instance:com.wordpress.tests.MyProfilepageTests@53b32d7]" name="profilePageSetUp" is-config="true" duration-ms="721" started-at="2021-04-21T01:13:25Z" finished-at="2021-04-21T01:13:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- profilePageSetUp -->
+        <test-method status="PASS" signature="verifyAddWordPressSite()[pri:8, instance:com.wordpress.tests.MyProfilepageTests@53b32d7]" name="verifyAddWordPressSite" duration-ms="2745" started-at="2021-04-21T01:13:26Z" finished-at="2021-04-21T01:13:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAddWordPressSite -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.wordpress.tests.MyProfilepageTests@53b32d7]" name="closeBrowser" is-config="true" duration-ms="228" started-at="2021-04-21T01:13:29Z" finished-at="2021-04-21T01:13:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.wordpress.tests.MyProfilepageTests@53b32d7]" name="setUp" is-config="true" duration-ms="4035" started-at="2021-04-21T01:13:29Z" finished-at="2021-04-21T01:13:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="profilePageSetUp()[pri:0, instance:com.wordpress.tests.MyProfilepageTests@53b32d7]" name="profilePageSetUp" is-config="true" duration-ms="945" started-at="2021-04-21T01:13:33Z" finished-at="2021-04-21T01:13:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- profilePageSetUp -->
+        <test-method status="PASS" signature="verifyCancelProfileLinks()[pri:9, instance:com.wordpress.tests.MyProfilepageTests@53b32d7]" name="verifyCancelProfileLinks" duration-ms="2533" started-at="2021-04-21T01:13:34Z" finished-at="2021-04-21T01:13:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCancelProfileLinks -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.wordpress.tests.MyProfilepageTests@53b32d7]" name="closeBrowser" is-config="true" duration-ms="249" started-at="2021-04-21T01:13:37Z" finished-at="2021-04-21T01:13:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.wordpress.tests.MyProfilepageTests@53b32d7]" name="setUp" is-config="true" duration-ms="4260" started-at="2021-04-21T01:13:37Z" finished-at="2021-04-21T01:13:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="profilePageSetUp()[pri:0, instance:com.wordpress.tests.MyProfilepageTests@53b32d7]" name="profilePageSetUp" is-config="true" duration-ms="929" started-at="2021-04-21T01:13:41Z" finished-at="2021-04-21T01:13:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- profilePageSetUp -->
+        <test-method status="PASS" signature="verifyAddUrl()[pri:10, instance:com.wordpress.tests.MyProfilepageTests@53b32d7]" name="verifyAddUrl" duration-ms="2900" started-at="2021-04-21T01:13:42Z" finished-at="2021-04-21T01:13:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAddUrl -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.wordpress.tests.MyProfilepageTests@53b32d7]" name="closeBrowser" is-config="true" duration-ms="211" started-at="2021-04-21T01:13:45Z" finished-at="2021-04-21T01:13:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.wordpress.tests.MyProfilepageTests@53b32d7]" name="setUp" is-config="true" duration-ms="3928" started-at="2021-04-21T01:13:45Z" finished-at="2021-04-21T01:13:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="profilePageSetUp()[pri:0, instance:com.wordpress.tests.MyProfilepageTests@53b32d7]" name="profilePageSetUp" is-config="true" duration-ms="844" started-at="2021-04-21T01:13:49Z" finished-at="2021-04-21T01:13:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- profilePageSetUp -->
+        <test-method status="PASS" signature="verifyHelpSearchResults()[pri:11, instance:com.wordpress.tests.MyProfilepageTests@53b32d7]" name="verifyHelpSearchResults" duration-ms="4205" started-at="2021-04-21T01:13:50Z" finished-at="2021-04-21T01:13:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHelpSearchResults -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.wordpress.tests.MyProfilepageTests@53b32d7]" name="closeBrowser" is-config="true" duration-ms="172" started-at="2021-04-21T01:13:54Z" finished-at="2021-04-21T01:13:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.wordpress.tests.MyProfilepageTests -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
